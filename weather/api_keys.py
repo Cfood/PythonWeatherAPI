@@ -1,5 +1,5 @@
 # OpenWeatherMap API Key
-weather_api_key = "insert here"
+weather_api_key = "insert key her"
 
 
 
